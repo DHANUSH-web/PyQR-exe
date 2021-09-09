@@ -1,14 +1,7 @@
 ========================================
-Data: https://www.atme.in
-File Location: C:/Users/admin/Dropbox/My PC (DESKTOP-QJN65G6)/Desktop/atme.png
-File: atme.png        
+Data: <data_encoded_to_qr_code>
+File Location: <file_path>
+File: <qr_code_filename>        
 File Type: PNG Image file
 Date: 17-03-2021
 Time: 08 : 34 : 05 AM
-========================================
-Data: https://www.github.com/DHANUSH-web
-File Location: C:/Users/admin/Pictures/Camera Roll/github.png
-File: github.png        
-File Type: PNG Image file
-Date: 17-03-2021
-Time: 08 : 37 : 11 AM
